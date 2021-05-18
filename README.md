@@ -3,3 +3,5 @@
 my first time project
 
 - 見ました pushします
+
+- 見ました pullします
